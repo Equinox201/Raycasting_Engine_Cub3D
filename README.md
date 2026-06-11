@@ -1,7 +1,7 @@
 # Raycasting Engine - cub3D
 
 <p align="center">
-  <img src="./assets/cub3d.png" alt="project badge"/>
+  <img src="./assets/cube3d.png" alt="project badge"/>
 </p>
 
 ## Overview
